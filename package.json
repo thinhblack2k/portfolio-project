@@ -15,7 +15,8 @@
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^4.12.0",
-    "swipe": "^1.7.7"
+    "swipe": "^1.7.7",
+    "swiper": "^11.0.5"
   },
   "devDependencies": {
     "@types/node": "^20",
